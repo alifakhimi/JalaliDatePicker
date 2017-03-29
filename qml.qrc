@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/MaterialIcons-Regular.ttf</file>
+        <file>fonts/samim.ttf</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>JalaliDatePicker.qml</file>
+        <file>logic/persian-date-0.1.8.js</file>
+        <file>logic/jalali.js</file>
+        <file>logic/algorithms.js</file>
+        <file>logic/constants.js</file>
+        <file>logic/date.js</file>
+        <file>logic/duration.js</file>
+        <file>logic/helpers.js</file>
+        <file>MonthPanel.qml</file>
+        <file>YearPanel.qml</file>
+    </qresource>
+</RCC>
